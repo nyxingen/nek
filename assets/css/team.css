@@ -196,6 +196,8 @@ body .first-box .hero-video {
       left: 0;
       top: 0; }
 
+      body section.margen {
+            margin: 0 72px 72px; }
 body section.connect {
   ; }
   @media screen and (max-width: 768px) {
