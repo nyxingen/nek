@@ -273,7 +273,7 @@ body section.team {
       padding: 20px; }
       body section.team .list .person-wrapper .person {
         width: 210px;
-        height: 436px;
+        height: 410px;
         display: flex;
         flex-direction: column;
         border-radius: 10px;
