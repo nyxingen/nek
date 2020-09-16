@@ -273,7 +273,7 @@ body section.team {
       padding: 20px; }
       body section.team .list .person-wrapper .person {
         width: 210px;
-        height: 336px;
+        height: 436px;
         display: flex;
         flex-direction: column;
         border-radius: 10px;
@@ -285,12 +285,13 @@ body section.team {
           border-radius: 10px 10px 0 0; }
         body section.team .list .person-wrapper .person .name {
           margin: 22px 14px auto;
-          font-size: 22px; }
+          font-size: 22px;
+          color: #35009b; }
         body section.team .list .person-wrapper .person .role {
-          margin: 0 14px 22px;
+          margin: 0 10px 1px;
           font-size: 15px; }
           body section.team .list .person-wrapper .person .descrip {
-            margin: 0 14px 22px;
+            margin: 0 14px 15px;
             font-size: 10px; }
 
 body .changing-word {
